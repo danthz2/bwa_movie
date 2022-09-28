@@ -1,16 +1,13 @@
-# bwa_movie
+# BWA Movie App
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/67012680/192674029-6976523d-7e09-401c-b6ea-e099b10536ee.png)
+![image](https://user-images.githubusercontent.com/67012680/192674204-7f9531cb-6718-4b13-8401-da4c43655bf1.png)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Home
+- Search
 
-A few resources to get you started if this is your first Flutter project:
+## Design UI By Hitesh Tapaniya
+[ShaynaKit](https://shaynakit.com/details/moviez-streaming)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
